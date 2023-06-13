@@ -1,2 +1,0 @@
-# Miniature-project
-Miniature
